@@ -1,4 +1,8 @@
 <html>
-    <head></head>
-    <body>WORK IN PROGRESS.</body>
+ <head>
+  <title>PHP Test</title>
+ </head>
+ <body>
+ <?php echo '<p>Hello World</p>'; ?> 
+ </body>
 </html>
